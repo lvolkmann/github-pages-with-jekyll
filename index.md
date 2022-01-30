@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "A test blog is a happy blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Truer words have never been spoken.
